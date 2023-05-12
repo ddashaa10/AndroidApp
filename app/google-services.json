@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138087873845",
+    "project_id": "androidapp-bcc26",
+    "storage_bucket": "androidapp-bcc26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138087873845:android:f1c122737edcc50eefe07c",
+        "android_client_info": {
+          "package_name": "com.ddasha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138087873845-v01bnepmsisbongqvnparkd46n9302c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9K4f5LiIpMxReKtOlat2uDb3D6OhTJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138087873845-v01bnepmsisbongqvnparkd46n9302c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

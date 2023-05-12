@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/root_element"
+    android:layout_height="match_parent"
+    tools:context=".CreateModule">
+
+    <EditText
+        android:id="@+id/name_module"
+        android:layout_width="307dp"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="104dp"
+        android:background="@drawable/edittext_bg"
+        android:ems="10"
+        android:fontFamily="@font/raleway"
+        android:hint="@string/name_module"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:background="@drawable/lower_border_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="33dp"
+        android:fontFamily="@font/raleway"
+        android:text="@string/create_module"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="395dp"
+        android:fontFamily="@font/raleway"
+        android:text="@string/choice_method"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/linerCreate"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="175dp"
+        android:background="@drawable/block_create_module"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/termin"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:ems="10"
+            android:fontFamily="@font/raleway"
+            android:gravity="start|top"
+            android:hint="@string/termin"
+            android:inputType="textMultiLine"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/opredelenie"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:fontFamily="@font/raleway"
+            android:gravity="start|top"
+            android:hint="@string/opredelenie"
+            android:inputType="textMultiLine"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/add_block"
+            android:layout_width="50dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="249dp"
+            android:layout_marginTop="24dp"
+            android:text="+"
+            android:textSize="24sp"
+            app:backgroundTint="@color/main_color"
+            app:cornerRadius="100dp"
+            app:strokeColor="@color/white"
+            app:strokeWidth="1dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/add_module"
+        android:layout_width="55dp"
+        android:layout_height="65dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="625dp"
+        android:layout_marginEnd="20dp"
+        android:drawableLeft="@drawable/tick"
+        app:backgroundTint="@color/main_color"
+        app:cornerRadius="100dp"
+        app:strokeColor="@color/white"
+        app:strokeWidth="1dp" />
+
+    <RelativeLayout
+        android:layout_width="270dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="430dp">
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="127dp"
+            android:layout_height="97dp"
+            android:drawableBottom="@drawable/card"
+            android:fontFamily="@font/raleway"
+            android:text="@string/card"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:backgroundTint="@color/white"
+            app:cornerRadius="20dip"
+            app:strokeColor="@color/black"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="127dp"
+            android:layout_height="97dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:drawableBottom="@drawable/test"
+            android:fontFamily="@font/raleway"
+            android:text="@string/test"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:backgroundTint="@color/white"
+            app:cornerRadius="20dip"
+            app:strokeColor="@color/black"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="127dp"
+            android:layout_height="97dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:drawableBottom="@drawable/podbor"
+            android:fontFamily="@font/raleway"
+            android:text="@string/podbor"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:backgroundTint="@color/white"
+            app:cornerRadius="20dip"
+            app:strokeColor="@color/black"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="127dp"
+            android:layout_height="97dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:drawableBottom="@drawable/learn"
+            android:fontFamily="@font/raleway"
+            android:text="@string/learn"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:backgroundTint="@color/white"
+            app:cornerRadius="20dip"
+            app:strokeColor="@color/black"
+            app:strokeWidth="1dp" />
+    </RelativeLayout>
+
+
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="26dp"
+        android:drawableLeft="@drawable/back_button"
+        android:paddingLeft="20px"
+        app:backgroundTint="@color/main_color"
+        app:cornerRadius="100dp"
+        app:strokeColor="@color/white"
+        app:strokeWidth="2dp" />
+
+</RelativeLayout>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/root_element"
+    android:layout_height="match_parent"
+    tools:context=".LibraryModule">
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="307dp"
+        android:layout_height="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/edittext_bg"
+        android:drawableLeft="@drawable/search_icon"
+        android:ems="10"
+        android:fontFamily="@font/raleway"
+        android:hint="@string/search"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:background="@drawable/lower_border_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="35dp"
+        android:fontFamily="@font/raleway"
+        android:text="@string/library"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="26dp"
+        android:drawableLeft="@drawable/back_button"
+        android:paddingLeft="20px"
+        app:backgroundTint="@color/main_color"
+        app:cornerRadius="100dp"
+        app:strokeColor="@color/white"
+        app:strokeWidth="2dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="610dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/border_view"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/homeIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@drawable/home" />
+
+        <ImageButton
+            android:id="@+id/createIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@drawable/add" />
+
+        <ImageButton
+            android:id="@+id/libraryIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:backgroundTint="@color/white"
+            app:srcCompat="@drawable/library" />
+    </LinearLayout>
+
+</RelativeLayout>
