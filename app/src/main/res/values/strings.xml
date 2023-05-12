@@ -1,0 +1,41 @@
+<resources>
+    <!--    Авторизация-->
+    <string name="app_name">Yucca</string>
+    <string name="Authorization">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="logIn">Войти</string>
+    <string name="signUp"><u>Зарегистрироваться</u></string>
+
+    <!--    Регистрация-->
+    <string name="registration">Регистрация</string>
+    <string name="btnSignUp">Зарегистрироваться</string>
+    <string name="name">Имя</string>
+    <string name="email">Email</string>
+
+    <!--    Главная-->
+    <string name="my_module">Мои модули</string>
+    <string name="search"><pre>  </pre>Введите название модуля…</string>
+    <string name="achievements"><pre>  </pre>Достижения</string>
+
+    <!--    Аккаунт-->
+    <string name="change">Изменить данные</string>
+    <string name="delete">Удалить аккаунт</string>
+    <string name="logout">Выйти</string>
+
+    <!--    Создать модуль-->
+    <string name="create_module">Создать модуль</string>
+    <string name="name_module">Название модуля</string>
+    <string name="choice_method">Выберите метод для изучения:</string>
+    <string name="card">Карточки</string>
+    <string name="learn">Заучивание</string>
+    <string name="test">Тест</string>
+    <string name="podbor">Подбор</string>
+    <string name="termin">Термин</string>
+    <string name="opredelenie">Определение</string>
+
+    <!--    Библиотека-->
+    <string name="library">Библиотека модулей</string>
+
+
+</resources>
