@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_card.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_account.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_add_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\add_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_library_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\library_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_create_module.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_create_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_block_create_module.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\block_create_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_learning.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\learning.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_library.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_back.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_logo_2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_back_button.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\back_button.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_home.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_lower_border_view.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\lower_border_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_podbor.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\podbor.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_ic_yucca.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\ic_yucca.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_test.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\test.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_learn.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\learn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_registration.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\registration.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\font_raleway_bold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\font\\raleway_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_background_splashscreen.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\background_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_module.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\module.png"
+    },
+    {
+        "merged": "com.ddasha.myapplication.app-merged_res-35:/drawable_library.png.flat",
+        "source": "com.ddasha.myapplication.app-main-37:/drawable/library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_medal.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\medal.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_border_view.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\border_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\font_raleway.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\font\\raleway.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_change.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\change.png"
+    },
+    {
+        "merged": "com.ddasha.myapplication.app-merged_res-35:/drawable_home.png.flat",
+        "source": "com.ddasha.myapplication.app-main-37:/drawable/home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_user.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_library_module.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_library_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\layout_activity_authorization.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\layout\\activity_authorization.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_view_account.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\view_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.ddasha.myapplication.app-main-37:\\drawable\\ic_launcher_background.xml"
+    }
+]
